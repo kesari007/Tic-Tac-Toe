@@ -1,1 +1,1 @@
-A two player Tic-Tac-Toe game in Python !
+ <b>A two player Tic-Tac-Toe game in Python !
