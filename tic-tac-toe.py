@@ -1,5 +1,5 @@
 # A two player tic-tac-toe Game implemented in Python
-
+from ForOnePlayer import main
 def main():
 	print('Welcome to the tic tac toe game folks!')
 	P1=input("Player 1 enter your choice as 'X' or 'O' : ")    #player 1 takes input
@@ -131,5 +131,6 @@ def num_board():						#function for telling the players about numbering on the b
 	print('-----------------')
 	print(' 7 '+' | '+' 8 '+' | '+' 9 ')
 	print()
-flag=0				#declaring a global varoable 'flag' 
-main() 
+flag=0	
+if __name__== "__main__":			#declaring a global varoable 'flag' 
+	main() 

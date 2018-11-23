@@ -1,1 +1,9 @@
-A two player Tic-Tac-Toe game in Python !
+## A two player Tic-Tac-Toe game in Python !
+
+## To play the game follow the steps below:
+
+1. Fork the repository to make a copy in your account.
+2. Now clone the repository.
+3. Move to the project directory and run ``` python tic-tac-toe.py```
+4. Enjoy the game :)
+5. Feel free to add some more functionalities to the repo.
